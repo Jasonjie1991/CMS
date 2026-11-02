@@ -4,20 +4,26 @@
   "sources": [
     {
       "name": "爱奇艺",
-      "url": "shturl.cc/X27yGkkvbEpnuNaNlcqAsCaR65rWP7OT",
-      "detail": "shturl.cc/ArwkrjYECouP",
+      "url": "https://iqiyizyapi.com/api.php/provide/vod",
+      "detail": "https://iqiyizyapi.com",
+      "isAdult": false
+    },
+    {
+      "name": "百度云",
+      "url": "https://bdzy1.com/api.php/provide/vod",
+      "detail": "https://bdzy1.com",
       "isAdult": false
     },
     {
       "name": "电影天堂",
-      "url": "shturl.cc/t7WifkFEKpruJFkZ2x2QeNoaw0c0blIEASHQ",
-      "detail": "shturl.cc/m6iWp9XFYZBDOtSA",
+      "url": "https://dyttzy.tv//api.php/provide/vod",
+      "detail": "https://dyttzy.tv/",
       "isAdult": false
     },
     {
       "name": "虎牙资源",
-      "url": "https://www.huyaapi.com/api.php/provide/vod",
-      "detail": "https://www.huyaapi.com",
+      "url": "https://www.huyazy.com/api.php/provide/vod",
+      "detail": "https://www.huyazy.com",
       "isAdult": false
     },
     {
@@ -34,74 +40,80 @@
     },
     {
       "name": "魔都资源",
-      "url": "shturl.cc/lbQB2quIOQTBc6qqtSANG20SdQ3a09GY",
-      "detail": "shturl.cc/3jOqY3thT8V3",
+      "url": "https://www.moduzy.cc/api.php/provide/vod",
+      "detail": "https://www.moduzy.cc",
       "isAdult": false
     },
     {
       "name": "猫眼资源",
-      "url": "shturl.cc/hdSU8in4SlDFPj/api.php/provide/vod",
-      "detail": "shturl.cc/hdSU8in4SlDFPj",
+      "url": "https://www.maoyanzy.com/api.php/provide/vod",
+      "detail": "https://www.maoyanzy.com",
+      "isAdult": false
+    },
+    {
+      "name": "天涯资源",
+      "url": "https://tyyszy.com/api.php/provide/vod",
+      "detail": "https://tyyszy.com",
       "isAdult": false
     },
     {
       "name": "茅台资源",
-      "url": "https://shturl.//api.php/provide/vod",
-      "detail": "https://shturl.",
+      "url": "https://mtzy.me/api.php/provide/vod",
+      "detail": "https://mtzy.me",
       "isAdult": false
     },
     {
       "name": "豆瓣资源",
-      "url": "shturl.cc/1ToLh/api.php/provide/vod",
-      "detail": "shturl.cc/1ToLh",
+      "url": "https://dbzy.tv/api.php/provide/vod",
+      "detail": "https://dbzy.tv",
       "isAdult": false
     },
     {
-      "url": "https://jszyapi.com/api.php/provide/vod",
       "name": "极速资源",
+      "url": "https://jszyapi.com/api.php/provide/vod",
       "detail": "https://jszyapi.com",
       "isAdult": false
     },
     {
-      "url": "http://jyzyapi.com/api.php/provide/vod",
       "name": "金鹰资源",
-      "detail": "http://jyzyapi.com",
+      "url": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
+      "detail": "https://jinyingzy.com",
       "isAdult": false
     },
     {
-      "url": "shturl.cc/yNluuDXtzrexpxFWdH43zW8O2qS7s",
       "name": "豪华资源",
-      "detail": "shturl.cc/2sYg8iuvw",
+      "url": "https://www.haohuazy.com/api.php/provide/vod",
+      "detail": "https://www.haohuazy.com",
       "isAdult": false
     },
     {
-      "url": "https://cj.lziapi.com/api.php/provide/vod",
+      "url": "https://lzzy.tv/api.php/provide/vod",
       "name": "量子资源",
-      "detail": "https://cj.lziapi.com",
+      "detail": "https://lzzy.tv",
       "isAdult": false
     },
     {
-      "url": "http://zuidazy.me/api.php/provide/vod",
       "name": "最大资源",
-      "detail": "http://zuidazy.me",
+      "url": "https://zuida.me/api.php/provide/vod",
+      "detail": "https://zuida.me",
       "isAdult": false
     },
     {
-      "url": "shturl.cc/h3jAO5rUH2gQ/api.php/provide/vod",
       "name": "速播资源",
-      "detail": "shturl.cc/h3jAO5rUH2gQ",
+      "url": "https://www.subozy.com/api.php/provide/vod",
+      "detail": "https://www.subozy.com",
       "isAdult": false
     },
     {
-      "url": "http://cj.ffzyapi.com/api.php/provide/vod",
+      "url": "http://ffzy.tv/api.php/provide/vod",
       "name": "非凡资源",
-      "detail": "https://cj.ffzyapi.com",
+      "detail": "http://ffzy.tv",
       "isAdult": false
     },
     {
-      "url": "https://api.ukuapi.com/api.php/provide/vod",
-      "name": "U酷资源",
-      "detail": "https://api.ukuapi.com",
+      "name": "U酷影视",
+      "url": "https://www.ukuzy.com/api.php/provide/vod",
+      "detail": "https://www.ukuzy.com",
       "isAdult": false
     },
     {
@@ -117,21 +129,21 @@
       "isAdult": false
     },
     {
-      "url": "http://hongniuzy2.com/api.php/provide/vod",
+      "url": "https://hongniuzy.com/api.php/provide/vod",
       "name": "红牛资源",
-      "detail": "https://hongniuzy2.com",
+      "detail": "https://hongniuzy.com",
       "isAdult": false
     },
     {
-      "url": "shturl.cc/Qp1CMnRs5ogni6WeI70DIiFVwwc",
       "name": "360资源",
-      "detail": "shturl.cc/b8rZo9w",
+      "url": "https://360zyzz.com/api.php/provide/vod",
+      "detail": "https://360zy.com",
       "isAdult": false
     },
     {
-      "url": "https://ikunzyapi.com/api.php/provide/vod",
+      "url": "https://ikunzy.com/api.php/provide/vod",
       "name": "iKUN资源",
-      "detail": "https://ikunzyapi.com",
+      "detail": "https://ikunzy.com",
       "isAdult": false
     },
     {
@@ -141,9 +153,9 @@
       "isAdult": false
     },
     {
-      "url": "https://bfzyapi.com/api.php/provide/vod",
+      "url": "https://bfzy.tv/api.php/provide/vod",
       "name": "暴风资源",
-      "detail": "https://bfzyapi.com",
+      "detail": "https://bfzy.tv",
       "isAdult": false
     }
   ]
