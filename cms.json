@@ -3,13 +3,13 @@
   "version": 2
   "sources": [
     {
-      "name": "爱奇艺资源",
+      "name": "爱奇艺",
       "url": "https://iqiyizyapi.com/api.php/provide/vod",
       "detail": "https://iqiyizyapi.com",
       "isAdult": false
     },
     {
-      "name": "电影天堂资源",
+      "name": "电影天堂",
       "url": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "detail": "http://caiji.dyttzyapi.com",
       "isAdult": false
